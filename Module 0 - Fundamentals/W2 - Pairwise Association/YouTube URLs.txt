@@ -1,0 +1,51 @@
+1. Association Rule x
+
+https://www.youtube.com/watch?v=kxjJsMFkJOY
+
+2. Formalizing the Problem
+
+https://www.youtube.com/watch?v=bsOT0Gs6TBo
+
+3. Tabulating Co-Occurence Counts
+
+https://www.youtube.com/watch?v=f5R9RFKDxG8
+
+4. From Counts to Confidence
+
+https://www.youtube.com/watch?v=j2k2zo9CRkM
+
+5. Algorithm Summary
+
+https://www.youtube.com/watch?v=oDDMT4Sio_E
+
+6. Assessing Efficiency
+
+https://www.youtube.com/watch?v=K8IbNtNeHlg
+
+7. Lab Notebook Overview
+
+https://www.youtube.com/watch?v=sfq8Z_IKd2E
+
+8. Lab: Data Cleaning (Exercises 1-3)
+
+https://www.youtube.com/watch?v=PUCQKjcgxtU
+
+9. Lab: Data Cleaning Answers (1-3)
+
+https://www.youtube.com/watch?v=ZfkgP1mIB_0
+
+10. Default Dictionaries and Counting (4-5)
+
+https://www.youtube.com/watch?v=83OzIM_VLVM
+
+11. Answers (4-5)
+
+https://www.youtube.com/watch?v=ADq9_7xd9es
+
+12. Finishing the Implementation (6-8)
+
+https://www.youtube.com/watch?v=8wVEfnYcLuQ
+
+13. Answers
+
+https://www.youtube.com/watch?v=_RgEo4vBAEA

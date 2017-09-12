@@ -1,0 +1,9 @@
+Two important notes:
+
+The notebook has TWO parts (part0, part1). Be sure you complete and submit both.
+Part 1 contains some test code that may take a relatively long time to run (one or two minutes). As such, when you are debugging, you may want to copy the test cell to do smaller scale tests. In addition, when you submit Part 1, you may need to wait a couple minutes to see the results. Corollary: Don't wait too close to the last minute to submit!
+Commentary. If you have watched Topic 4, you might feel the topic is esoteric. Not so! Indeed, the era of large-scale data analysis and machine learning makes it especially relevant. For instance, in January 2017, Forbes Magazine published an article surveying the landscape of computer architectures "tuned" for machine learning workloads. [Link to article] The idea of aggressively reducing numerical precision, so that a program moves fewer bytes and arithmetic operations go even faster; see, for instance, this snippet:
+
+[Clip from Forbes article about reduced precision for machine learning workloads]
+
+What effects such changes will have on computation remains to be seen. But if you understand this subject, you'll be in a better position to deal with whatever may come.

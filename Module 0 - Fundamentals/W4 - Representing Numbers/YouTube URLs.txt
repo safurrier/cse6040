@@ -1,0 +1,39 @@
+1. Representing Numbers (Integers)
+
+https://www.youtube.com/watch?v=OPvN4cz_xgU
+
+2. Representing Fractional Values
+
+https://www.youtube.com/watch?v=krV3Rnl-wD0
+
+3. Floating Point Values
+
+https://www.youtube.com/watch?v=l2gv30THefs
+
+4. Rounding Errors
+
+https://www.youtube.com/watch?v=PHnJuGHiq5A
+
+5. A Small Surprise
+
+https://www.youtube.com/watch?v=WJvPhPmm_Vg
+
+6. The IEEE-754 Binary Encoding
+
+https://www.youtube.com/watch?v=HFTcZ6lGTWY
+
+7. Framework for error analysis
+
+https://www.youtube.com/watch?v=6aw9Mjf7o4s
+
+8. Computing a sum pt. 1: Correctness in exact arithmetic
+
+https://www.youtube.com/watch?v=33NGORrUxxg
+
+9. Computing a sum pt. 2: With Floating Points
+
+https://www.youtube.com/watch?v=0K0OQQM0YE0
+
+10. Computing a sum pt. 3: Error Analysis 
+
+https://www.youtube.com/watch?v=gw_u5yxTgb8
